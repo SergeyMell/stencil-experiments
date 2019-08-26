@@ -4,11 +4,6 @@
     "allowUnreachableCode": false,
     "declaration": false,
     "experimentalDecorators": true,
-    "types": [
-      "babylonjs",
-      "babylonjs-gui",
-      "babylonjs-materials"
-    ],
     "lib": [
       "dom",
       "es2017"
